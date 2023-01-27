@@ -1,12 +1,12 @@
-# 🖌️ Canvas
-A collection of useful files for a new repository's scaffolding.
+# 🖌️ Outpaintings
+A collection of famous paintings expanded through the help of an AI.
 
 ## 📦 Installation
-Follow the steps below to make use of Canvas.
+Follow the steps below to make use of Outpaintings.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Molivair/canvas.git
+git clone https://github.com/Molivair/Outpaintings.git
 ```
 
 ## 🤝 Contributing
