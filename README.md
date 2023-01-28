@@ -17,4 +17,4 @@ If you want to support our work you can do it buying our art.
 - [OpenSea](https://opensea.io/Molivair)
 
 ## 💳 License
-This repository is licensed under [GPL-3.0 License](https://github.com/Molivair/canvas/blob/main/LICENSE).
+This repository is licensed under [CC BY-NC-4.0](https://github.com/Molivair/outpaintings/blob/main/LICENSE).
