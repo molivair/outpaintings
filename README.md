@@ -1,4 +1,6 @@
 # 🖌️ Outpaintings
+![Cover](https://raw.githubusercontent.com/Molivair/outpaintings/main/assets/images/cover.png)
+
 A collection of famous paintings expanded through the help of an AI.
 
 ## 📦 Install
